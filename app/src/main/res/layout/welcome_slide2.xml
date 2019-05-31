@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img9">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp"
+        android:layout_gravity="bottom"
+        android:orientation="vertical">
+
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:text="In general, mindfulness was popularized in the East by religious and spiritual institutions, while in the West its popularity can be traced to particular people and secular institutions. Of course, even the secular tradition of mindfulness in the West owes its roots to Eastern religions and traditions. "
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
